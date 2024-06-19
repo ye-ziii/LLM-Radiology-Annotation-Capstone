@@ -11,6 +11,8 @@ Keen interest and passion in Machine Learning, NLP, and AI technology. Hands-on 
 - M.S., Applied Data Science	| The University of Chicago (_December 2024_)	 			        		
 - B.S., Economics & Business | The University of Washington (_June 2023_)
 
+## Notebooks
+
 #### _Note: this portfolio consists of code notebooks I conducted for the Medical Language Processing Capstone Project at UChicago._
 
 ### Datasets & Data Sources
